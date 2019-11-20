@@ -70,7 +70,7 @@ export default class Mousehawk {
      *
      * @returns {*}
      */
-    readonly BUTTON: any;
+    get BUTTON(): any;
     /**
      * Setup the mousedown and mouseup event listeners and also initialize Deltaframe if its being used.
      *

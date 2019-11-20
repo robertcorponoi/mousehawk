@@ -61,13 +61,13 @@ export default class Mousebind {
      *
      * @returns {MousebindObject}
      */
-    readonly button: MousebindObject;
+    get button(): MousebindObject;
     /**
      * Gets the last time that this mousebind was used.
      *
      * @returns {number}
      */
-    readonly lastUsed: number;
+    get lastUsed(): number;
     /**
      * Sets the delay between mousebind uses.
      *
