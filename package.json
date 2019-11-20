@@ -1,7 +1,7 @@
 {
   "name": "mousehawk",
-  "version": "0.1.1",
-  "description": "TODO",
+  "version": "0.1.2",
+  "description": "The mouse counterpart to https://github.com/robertcorponoi/keyhawk. Mousehawk is used to create and manage mouse button bindings for your games.",
   "scripts": {
     "tsconfig": "tsc --init --declaration --allowSyntheticDefaultImports --target esnext --outDir lib",
     "type-check": "tsc --noEmit",
@@ -13,26 +13,38 @@
     "bundle:watch": "rollup -c --watch",
     "test": "node test/server.js"
   },
-  "repository": {},
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertcorponoi/mousehawk"
+  },
+  "keywords": [
+    "mouse",
+    "bind",
+    "button",
+    "buttons",
+    "touch",
+    "game",
+    "press",
+    "click"
+  ],
+  "author": "Robert Corponoi",
   "license": "MIT",
   "module": "mousehawk.js",
   "devDependencies": {
-    "@babel/cli": "^7.6.4",
-    "@babel/core": "^7.6.4",
-    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-proposal-class-properties": "^7.7.0",
     "@babel/plugin-proposal-numeric-separator": "^7.2.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
-    "@babel/preset-env": "^7.6.3",
-    "@babel/preset-typescript": "^7.6.0",
-    "rollup": "^1.26.0",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-typescript": "^7.7.2",
+    "rollup": "^1.27.2",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
-    "typescript": "^3.6.4"
+    "typescript": "^3.7.2"
   },
   "dependencies": {
-    "deltaframe": "^1.1.0"
+    "deltaframe": "^1.1.4"
   }
 }

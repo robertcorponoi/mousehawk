@@ -2,18 +2,19 @@
 
 # Mousehawk
 
-Mousehawk is the mouse counterpart to Keyhawk and is used to create and manage mouse button bindings for your JavaScript game.
+The mouse counterpart to [Keyhawk](https://github.com/robertcorponoi/keyhawk). Mousehawk is used to create and manage mouse button bindings for your games.
 
 </div>
 
 <div align="center">
 
-[![NPM version](https://img.shields.io/npm/v/mousehawk.svg?style=flat)](https://www.npmjs.com/package/mousehawk)
-[![Known Vulnerabilities](https://snyk.io/test/github/robertcorponoi/mousehawk/badge.svg)](https://snyk.io/test/github/robertcorponoi/mousehawk)
-[![NPM downloads](https://img.shields.io/npm/dm/mousehawk.svg?style=flat)](https://www.npmjs.com/package/mousehawk)
-<a href="https://badge.fury.io/js/mousehawk"><img src="https://img.shields.io/github/issues/robertcorponoi/mousehawk.svg" alt="issues" height="18"></a>
-<a href="https://badge.fury.io/js/mousehawk"><img src="https://img.shields.io/github/license/robertcorponoi/mousehawk.svg" alt="license" height="18"></a>
-[![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/robertcorponoi)
+  [![NPM version](https://img.shields.io/npm/v/mousehawk.svg?style=flat)](https://www.npmjs.com/package/mousehawk)
+  [![Known Vulnerabilities](https://snyk.io/test/github/robertcorponoi/mousehawk/badge.svg)](https://snyk.io/test/github/robertcorponoi/mousehawk)
+  ![npm](https://img.shields.io/npm/dt/mousehawk)
+  [![NPM downloads](https://img.shields.io/npm/dm/mousehawk.svg?style=flat)](https://www.npmjs.com/package/mousehawk)
+  <a href="https://badge.fury.io/js/mousehawk"><img src="https://img.shields.io/github/issues/robertcorponoi/mousehawk.svg" alt="issues" height="18"></a>
+  <a href="https://badge.fury.io/js/mousehawk"><img src="https://img.shields.io/github/license/robertcorponoi/mousehawk.svg" alt="license" height="18"></a>
+  [![Gitter](https://badges.gitter.im/gitterHQ/gitter.svg)](https://gitter.im/robertcorponoi)
 
 </div>
 
