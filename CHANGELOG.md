@@ -1,3 +1,7 @@
+0.1.3 / 2020-01=11
+==================
+* [MISC] Changed license year to reflect new year.
+
 0.1.2 / 2019-11=19
 ==================
 * [MISC] Updated all dependencies to their latest versions.
